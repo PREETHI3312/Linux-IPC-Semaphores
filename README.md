@@ -1,7 +1,9 @@
-# Linux-IPC-Semaphores
-Ex05-Linux IPC-Semaphores
 ## NAME: A K PREETHI
 ## REG NO: 212223230156
+
+# Linux-IPC-Semaphores
+Ex05-Linux IPC-Semaphores
+
 
 # AIM:
 To Write a C program that implements a producer-consumer system with two processes using Semaphores.
